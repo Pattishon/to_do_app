@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    max-width: 20rem;
+    background: #eee;
+    margin: 2rem;
+    padding: .3em;
+    background: #eee;
+    box-shadow: 2px 2px 3px 1px #aaa, 
+        8px 10px 0 1px #eee, 
+        8px 12px 3px 3px #aaa,
+        14px 20px 0 3px #eee, 
+        14px 22px 3px 5px #aaa;
+}
+
+.todo-item{
+    margin: .2em;
+    padding: .3em;
+    border-bottom: 1px dashed #aaa;
+    display: flex;
+    align-items: center;
+}
